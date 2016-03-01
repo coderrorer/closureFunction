@@ -1,0 +1,14 @@
+{
+  "name": "closure-function",
+  "version": "1.0.0",
+  "description": "js闭包函数，及js插件的数种格式研究",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zepto": "^1.0.1"
+  }
+}
